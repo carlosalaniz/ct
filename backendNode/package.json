@@ -1,0 +1,22 @@
+{
+  "name": "backendnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@commercetools/sdk-auth": "^3.0.12",
+    "@commercetools/sdk-client": "^2.1.2",
+    "@commercetools/sdk-middleware-http": "^6.0.11",
+    "@cybersource/flex-sdk-node": "^0.1.0",
+    "cors": "^2.8.5",
+    "cybersource-rest-client": "^0.0.29",
+    "express": "^4.17.1",
+    "jwt-decode": "^3.1.2",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
